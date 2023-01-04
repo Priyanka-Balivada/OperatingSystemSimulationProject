@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class first4 {
+public class InstuctionFetch {
     public static void main(String[] args) {
         char M[][] = new char[100][4];
 

@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class first5 {
+public class parsingChar{
     static char R[] = new char[4];
     static char IR[] = new char[4];
     static char M[][] = new char[100][4];
