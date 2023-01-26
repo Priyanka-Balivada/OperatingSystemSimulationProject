@@ -4,8 +4,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 import java.io.*;
-// import java.util.*;
 
+// import java.util.*;
+// add 40bytes
 public class MainProgram2 {
     static char R[] = new char[4];
     static char IR[] = new char[4];
